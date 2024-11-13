@@ -1,0 +1,12 @@
+{
+  "name": "simple-server",
+  "version": "1.0.0",
+  "description": "Simple node server without dependencies.",
+  "author": "",
+  "main": "index.js",
+  "license": "ISC",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
