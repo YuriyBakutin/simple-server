@@ -11,12 +11,23 @@ const mimeTypes = {
   'js': 'application/javascript',
   'mjs': 'application/javascript',
   'json': 'application/json',
+  'xml': 'application/xml',
+  'zip': 'application/zip',
+  'pdf': 'application/pdf',
   'txt': 'text/plain',
   'gif': 'image/gif',
   'png': 'image/png',
   'jpg': 'image/jpeg',
   'jpeg': 'image/jpeg',
-  'ico': 'image/x-icon'
+  'heic': 'image/heic',
+  'heif': 'image/heif',
+  'tiff': 'image/tiff',
+  'webp': 'image/webp',
+  'ico': 'image/x-icon',
+  '.woff': 'font/woff',
+  '.woff2': 'font/woff2',
+  '.ttf': 'font/ttf',
+  '.otf': 'font/otf',
 }
 const PORT = 3500
 const rootPath = './html'
